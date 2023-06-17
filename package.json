@@ -4,8 +4,8 @@
   "description": "run the following command to clone this folder to your computer",
   "main": "app.js",
   "scripts": {
-    "start": "node index.js",
-    "start-dev": "nodemon index.js"
+    "start": "node app.js",
+    "start-dev": "nodemon app.js"
   },
   "author": "Shahriar Shojib <shahriar_shojib@hotmail.com>",
   "license": "MIT",
